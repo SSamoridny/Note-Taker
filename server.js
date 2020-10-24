@@ -4,13 +4,11 @@ const express = require('express');
 // const fs = require('fs');
 const PORT = process.env.PORT || 8000;
 
-//Testing, not really needed here
-const dbJson = require('./db/db.json')
+const dbJson = require('./Develop/db/db.json')
 
-// Sets up the Express App
 const app = express();
 
-//Accesses public file mainly for proper CSS loading
+
 app.use(express.static(__dirname + '/public'));
 app.use(express.static('./'));
 
