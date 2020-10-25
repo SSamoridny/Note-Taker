@@ -1,10 +1,10 @@
 // Dependencies
 const express = require('express');
-// const path = require('path');
-// const fs = require('fs');
+const path = require('path');
+const fs = require('fs');
 const PORT = process.env.PORT || 8000;
 
-const dbJson = require('./Develop/db/db.json')
+const dbJson = require('./db/db.json')
 
 const app = express();
 
