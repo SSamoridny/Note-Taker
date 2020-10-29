@@ -10,7 +10,7 @@ const app = express();
 
 
 app.use(express.static(__dirname + '/public'));
-app.use(express.static('./'));
+//app.use(express.static('./index.html'));
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
