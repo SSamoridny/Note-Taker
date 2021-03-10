@@ -59,3 +59,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 }
+
+![Screen Shot 2021-03-10 at 12 11 57 PM](https://user-images.githubusercontent.com/30538162/110685653-bdd99780-819b-11eb-96c3-66c1168036a1.png)
+![Screen Shot 2021-03-10 at 12 13 33 PM](https://user-images.githubusercontent.com/30538162/110685668-c29e4b80-819b-11eb-9663-874c4b28c0f0.png)
+![Screen Shot 2021-03-10 at 12 13 21 PM](https://user-images.githubusercontent.com/30538162/110685682-c6ca6900-819b-11eb-82d3-82e92010722c.png)
